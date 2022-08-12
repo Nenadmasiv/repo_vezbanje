@@ -1,1 +1,3 @@
-*.pdf
+/test_output
+
+logs_*
